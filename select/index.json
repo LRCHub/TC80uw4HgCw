@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "マジック・メイド（feat. 重音テト）",
+  "base_artist": "MIMI",
+  "createdAt": "2025-12-23T01:12:16.809202Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マジック・メイド (feat. 重音テト)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/01_マジック・メイド_(feat._重音テト)_MIMI.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マジック・メイド (feat. 重音テト)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_マジック・メイド_(feat._重音テト)_MIMI.txt"
+    }
+  ]
+}
